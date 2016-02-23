@@ -23,10 +23,6 @@ import java.util.regex.Pattern;
  * <p>
  * Unless you are extending the functionality, you should not need
  * to modify this file.
- *
- * @author Benjamin Kuperman (Spring 2011)
- *         <p>
- *         Used by Jake Schafer and Tyler Knappenberger.
  */
 public class HTMLScanner implements Iterator<String>
 {
